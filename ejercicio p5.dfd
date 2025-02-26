@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+' cliente dijite su descuento '
+5
+1
+4
+desc
+4
+1
+16
+' digite valor '
+5
+1
+5
+valor
+4
+1
+15
+'digite nombre'
+5
+1
+6
+nombre
+6
+1
+1
+t
+24
+valor-((valor*desc)/100)
+4
+1
+1
+t
+1
