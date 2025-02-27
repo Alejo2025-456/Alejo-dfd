@@ -4,26 +4,27 @@
 1
 0
 0
-5
-1
-8
-p1,p2,p3
-6
-3
-1
-t
-8
-p1+p2+p3
-1
-d
-5
-t*0.2
-5
-final
-3
-t-d
 4
 1
+66
+'digite su edad solo pueden entrar a la fiesta mayores de 18 años'
 5
-final
+1
+1
+x
+7
+0
+1
+5
+x>=18
+4
+1
+17
+'se me va socioo'
+13
+4
+1
+16
+'puede ingresar'
+13
 1
